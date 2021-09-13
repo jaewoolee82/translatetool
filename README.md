@@ -19,4 +19,4 @@ asyncio.run(runit())
 ```
 
 ## Language List
-![](images/image1.png)
+![](https://i.ibb.co/d2Fcs2B/image1.png)
