@@ -1,6 +1,9 @@
 # translatetool
 A Papago Translate module.
 
+## Download
+```pip install translatetool```
+
 ## Example
 
 ```py
